@@ -1,4 +1,4 @@
 PhysicsSimulations
 ==================
 
-To be used in AS/A2 Physics Courses
+List of Python Scripts to be used in AS/A2 Physics Courses.  
